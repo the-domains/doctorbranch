@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[doctorbranch]]></title>
         <description><![CDATA[doctorbranch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/doctorbranch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 14:09:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Jan 2016 14:26:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/doctorbranch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c5f918d-c562-4c85-a1f6-a8140a263997.jpg">]]></description>
+            <link>https://thegrid.ai/doctorbranch/9d65a2d2-93ab-428f-b95a-56a63e6ce070/index.html</link>
+            <guid isPermaLink="false">9d65a2d2-93ab-428f-b95a-56a63e6ce070</guid>
+            <pubDate>Sat, 30 Jan 2016 14:26:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Dr. Branch started his career in 1988 as the Chief of Sports Medicine at Emory Clinic, Director of Orthopaedic Biomechanics and Chief of Orthopaedics at the Atlanta VA Hospital. In 1996 he founded University Orthopaedic Clinic at Dekalb Medical Center and Northside Hospital.</p>]]></description>
-            <link>undefinedba5720e1-88e3-4bca-a85c-c74c014b27ec/index.html</link>
+            <link>https://thegrid.ai/doctorbranch/ba5720e1-88e3-4bca-a85c-c74c014b27ec/index.html</link>
             <guid isPermaLink="false">ba5720e1-88e3-4bca-a85c-c74c014b27ec</guid>
             <pubDate>Sat, 30 Jan 2016 14:09:06 GMT</pubDate>
         </item>
